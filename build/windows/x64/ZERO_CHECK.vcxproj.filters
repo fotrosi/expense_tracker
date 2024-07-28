@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\Flutter\expense_tracker\build\windows\x64\CMakeFiles\ae4db619c8c23fae32452db9da943040\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{40473EB8-00C9-3E54-84B0-67F729AEBC92}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

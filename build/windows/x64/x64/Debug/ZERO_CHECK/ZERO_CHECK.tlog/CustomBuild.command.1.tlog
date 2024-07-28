@@ -1,0 +1,10 @@
+^D:\PROJECTS\FLUTTER\EXPENSE_TRACKER\BUILD\WINDOWS\X64\CMAKEFILES\AE4DB619C8C23FAE32452DB9DA943040\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Projects/Flutter/expense_tracker/windows -BD:/Projects/Flutter/expense_tracker/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Projects/Flutter/expense_tracker/build/windows/x64/expense_tracker.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
