@@ -1,0 +1,1 @@
+ /home/mohsen/StudioProjects/expense_tracker/.dart_tool/flutter_build/45e79808cf0124231cb53121d57f826c/native_assets.yaml: 
