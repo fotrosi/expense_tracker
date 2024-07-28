@@ -47,7 +47,7 @@ void main() {
               ),
             ),
       ),
-      darkTheme: ThemeData().copyWith(
+      darkTheme: ThemeData.dark().copyWith(
         //scaffoldBackgroundColor: Colors.deepPurple,
         colorScheme: kDarkColorScheme,
         appBarTheme: const AppBarTheme().copyWith(
