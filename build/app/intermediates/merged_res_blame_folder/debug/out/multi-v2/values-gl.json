@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.expense_tracker.app-mergeDebugResources-9:/values-gl/values-gl.xml",
+            "outputFile": "com.example.expense_tracker.app-mergeDebugResources-25:/values-gl/values-gl.xml",
             "map": [
                 {
-                    "source": "/home/mohsen/.gradle/caches/transforms-3/b8e7701480ff85560f7d5f700ceefc7f/transformed/core-1.6.0/res/values-gl/values-gl.xml",
+                    "source": "C:\\Users\\mohsen\\.gradle\\caches\\transforms-3\\9eda1f84b8daf5c0b50c7cfa0ebd81ec\\transformed\\core-1.13.1\\res\\values-gl\\values-gl.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,356,454,561,667,783",
+                        "endColumns": "98,101,99,97,106,105,115,100",
+                        "endOffsets": "149,251,351,449,556,662,778,879"
                     }
                 }
             ]
